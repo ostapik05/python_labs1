@@ -1,6 +1,6 @@
 settings = {
-    "decimal_places": 2,      # За замовчуванням кількість знаків після коми
-    "auto_memory_save": False,  # Автоматичне збереження результатів в пам'ять
+    "decimal_places": 2,      # Default кількість знаків після коми
+    "auto_memory_save": False,  # Автоматичне збереження
     "auto_memory_clear": False
 }
 

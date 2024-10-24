@@ -1,1 +1,1 @@
-memory = None
+memory = 0
